@@ -5,6 +5,10 @@ Public Class Login
         WebView21.Source = New Uri("http://www.fithou.edu.vn/")
     End Sub
 
+    ''' <summary>
+    ''' ConnectionString (Lần thứ 2)
+    ''' </summary>
+    ''' <returns></returns>
     Private Sub WebView21_NavigationStarting(sender As Object, e As CoreWebView2NavigationStartingEventArgs) Handles WebView21.NavigationStarting
         MessageBox.Show("Đang tải trang: " & e.Uri)
     End Sub
