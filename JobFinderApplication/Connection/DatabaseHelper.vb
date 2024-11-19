@@ -1,6 +1,6 @@
 ﻿Public Class DatabaseHelper
     ''' <summary>
-    ''' ConnectionString (Lần thứ 3)
+    ''' ConnectionString (Lần thứ 1)
     ''' </summary>
     ''' <returns></returns>
     Public Shared ReadOnly Property ConnectionString As String
