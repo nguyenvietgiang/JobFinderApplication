@@ -6,7 +6,7 @@ Public Class Login
     End Sub
 
     ''' <summary>
-    ''' ConnectionString (Lần thứ 4)
+    ''' ConnectionString (Lần thứ 2)
     ''' </summary>
     ''' <returns></returns>
     Private Sub WebView21_NavigationStarting(sender As Object, e As CoreWebView2NavigationStartingEventArgs) Handles WebView21.NavigationStarting
