@@ -8,5 +8,7 @@
             Return "Data Source=DESKTOP-GOAKFLS\SQLEXPRESS;Initial Catalog=GoldenJobDB;Integrated Security=True; TrustServerCertificate=True"
         End Get
     End Property
+
+    ' sửa sai từ develop
 End Class
 
